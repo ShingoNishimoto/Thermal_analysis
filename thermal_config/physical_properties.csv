@@ -1,0 +1,4 @@
+Node,weight[kg],capacity[J/K/kg],internal_heat[W]
+1,2,900,6
+2,4,800,4
+3,1,900,0
