@@ -1,0 +1,5 @@
+physical_properties.csv：各ノードの比熱，重量，発熱量を格納
+Cij.csv：各ノード間の熱コンダクタンスを格納
+area_propertiesフォルダ：各コンポーネント（パネルもコンポとして扱う）間ごとに分ける．ノード番号はグローバルな値（全体を通して連続した値）としているため，各面における最初のノード番号(begin_node)，最後のノード番号(end_node)，各面の面積，表面特性を保持している．begin_nodeとend_nodeを使うことで，一つの面に複数のノードが存在するときでも対応可能．
+view_properties.csv：view factorはノードではなく，面の幾何学的関係に依存するので，面ごとの他の面に対するview factorを保持．
+in_out_properties.csv：各コンポ同士の位置関係を表す．数字の意味は渋川さんのものと同じ．
