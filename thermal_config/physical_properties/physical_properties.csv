@@ -1,4 +1,0 @@
-Node,compo,weight[kg],capacity[J/K/kg],internal_heat[W],temperature[K]
-1,MISSION,2,900,6,-248
-2,BUS,4,800,4,-248
-3,PANEL,1,900,0,-248
