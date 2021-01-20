@@ -1,0 +1,65 @@
+nohup: 入力を無視します
+[I 17:19:08.832 NotebookApp] JupyterLab extension loaded from /home/shingo/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 17:19:08.832 NotebookApp] JupyterLab application directory is /home/shingo/anaconda3/share/jupyter/lab
+[I 17:19:08.834 NotebookApp] Serving notebooks from local directory: /home/shingo/Documents/university/lab/research/GradDesign/Thermal
+[I 17:19:08.834 NotebookApp] The Jupyter Notebook is running at:
+[I 17:19:08.834 NotebookApp] http://localhost:8888/?token=aeee8bf1160e74a6fe62ff32d97ca71c3b72b6afd73c1f91
+[I 17:19:08.834 NotebookApp]  or http://127.0.0.1:8888/?token=aeee8bf1160e74a6fe62ff32d97ca71c3b72b6afd73c1f91
+[I 17:19:08.834 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:19:08.913 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/shingo/.local/share/jupyter/runtime/nbserver-15062-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=aeee8bf1160e74a6fe62ff32d97ca71c3b72b6afd73c1f91
+     or http://127.0.0.1:8888/?token=aeee8bf1160e74a6fe62ff32d97ca71c3b72b6afd73c1f91
+[E 17:19:10.625 NotebookApp] Could not open static file ''
+[W 17:19:10.820 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 32.11ms referer=http://localhost:8888/tree?token=aeee8bf1160e74a6fe62ff32d97ca71c3b72b6afd73c1f91
+[W 17:19:10.883 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 8.37ms referer=http://localhost:8888/tree?token=aeee8bf1160e74a6fe62ff32d97ca71c3b72b6afd73c1f91
+[W 22:08:38.105 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 7.85ms referer=http://localhost:8888/notebooks/Thermal_analysis.ipynb
+[W 22:08:38.232 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.17ms referer=http://localhost:8888/notebooks/Thermal_analysis.ipynb
+[W 22:08:39.224 NotebookApp] Notebook Thermal_analysis.ipynb is not trusted
+[I 22:08:39.757 NotebookApp] Kernel started: f37fc13f-1445-4a44-94b8-bbbc214249ac
+[I 22:08:40.249 NotebookApp] Adapting from protocol version 5.1 (kernel f37fc13f-1445-4a44-94b8-bbbc214249ac) to 5.3 (client).
+[W 22:08:42.369 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.75ms referer=http://localhost:8888/notebooks/Thermal_analysis-Copy1.ipynb
+[W 22:08:42.451 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.06ms referer=http://localhost:8888/notebooks/Thermal_analysis-Copy1.ipynb
+[W 22:08:43.326 NotebookApp] Notebook Thermal_analysis-Copy1.ipynb is not trusted
+[I 22:08:43.859 NotebookApp] Kernel started: 6dc0a6e1-efa1-4c8e-b180-25efa2607d36
+[I 22:08:44.637 NotebookApp] Adapting from protocol version 5.1 (kernel 6dc0a6e1-efa1-4c8e-b180-25efa2607d36) to 5.3 (client).
+[I 22:09:37.732 NotebookApp] Kernel interrupted: f37fc13f-1445-4a44-94b8-bbbc214249ac
+[I 22:10:39.727 NotebookApp] Saving file at /Thermal_analysis.ipynb
+[I 22:10:43.873 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 22:24:39.750 NotebookApp] Saving file at /Thermal_analysis.ipynb
+[I 22:24:43.902 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[W 22:47:33.110 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 6.19ms referer=http://localhost:8888/edit/thermal_config/Cij_2.csv
+[W 22:47:33.197 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.34ms referer=http://localhost:8888/edit/thermal_config/Cij_2.csv
+[W 22:47:55.639 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 8.90ms referer=http://localhost:8888/edit/thermal_config/area_properties/PROPULSION.csv
+[W 22:47:55.725 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 5.00ms referer=http://localhost:8888/edit/thermal_config/area_properties/PROPULSION.csv
+[I 22:48:18.704 NotebookApp] Saving file at /thermal_config/area_properties/PROPULSION.csv
+[W 22:48:23.909 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 3.01ms referer=http://localhost:8888/edit/thermal_config/area_properties/COMMUNICATION.csv
+[W 22:48:23.991 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.32ms referer=http://localhost:8888/edit/thermal_config/area_properties/COMMUNICATION.csv
+[W 22:48:29.973 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 7.25ms referer=http://localhost:8888/edit/thermal_config/area_properties/NAVIGATION.csv
+[W 22:48:30.027 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.49ms referer=http://localhost:8888/edit/thermal_config/area_properties/NAVIGATION.csv
+[I 22:49:07.866 NotebookApp] Saving file at /thermal_config/area_properties/NAVIGATION.csv
+[W 22:49:16.484 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.45ms referer=http://localhost:8888/edit/thermal_config/area_properties/BUS.csv
+[W 22:49:16.566 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.13ms referer=http://localhost:8888/edit/thermal_config/area_properties/BUS.csv
+[I 22:50:39.721 NotebookApp] Saving file at /Thermal_analysis.ipynb
+[I 22:50:43.874 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 23:04:43.908 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 23:35:05.180 NotebookApp] Saving file at /thermal_config/area_properties/PROPULSION.csv
+[W 23:35:09.538 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 13.00ms referer=http://localhost:8888/edit/thermal_config/area_properties/PANEL.csv
+[W 23:35:09.612 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.47ms referer=http://localhost:8888/edit/thermal_config/area_properties/PANEL.csv
+[I 23:35:37.771 NotebookApp] Saving file at /thermal_config/area_properties/PANEL.csv
+[I 23:36:39.731 NotebookApp] Saving file at /Thermal_analysis.ipynb
+[I 23:36:43.884 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 23:50:43.888 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 23:52:39.734 NotebookApp] Saving file at /Thermal_analysis.ipynb
+[I 23:52:43.883 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 00:06:39.731 NotebookApp] Saving file at /Thermal_analysis.ipynb
+[I 00:06:43.885 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 00:08:39.731 NotebookApp] Saving file at /Thermal_analysis.ipynb
+[I 00:08:43.890 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 00:22:39.742 NotebookApp] Saving file at /Thermal_analysis.ipynb
+[I 00:22:43.887 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 00:36:43.892 NotebookApp] Saving file at /Thermal_analysis-Copy1.ipynb
+[I 00:38:39.738 NotebookApp] Saving file at /Thermal_analysis.ipynb
